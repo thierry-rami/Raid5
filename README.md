@@ -12,3 +12,7 @@ pour remplacer le disque défectueux
 
 ## raid5-add-hot-spare.sh 
 pour configurer votre disque de spare
+
+## grow_raid.sh
+ajout de disque dans le Raid + etendre partition
+
